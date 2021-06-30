@@ -15,8 +15,8 @@
 - Gettting started with search `search.ipynb`
 - Two-step searching
 - Searching for collections
-- Searching for granules
+- Searching for granules `granule_search.ipynb`
 
 ## Running a notebook
 `cd <root of cloned repo>`
-`jupyter-lab search.ipynb`
+`jupyter-lab [search.ipynb|ranule_search.ipynb]`
