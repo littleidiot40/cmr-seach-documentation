@@ -1,5 +1,11 @@
 # CMR Search documentation by example
 
+The purpose of this notebook is to document the CMR Search API by example. These examples can be executed via Jupyter Notebooks using Python code.
+
+CMR Search is a REST-based API that provides search capabilities at the collection (dataset) and granule (file) level.
+
+The notebooks execute HTTPS requests and parse the results in either XML or JSON format.
+
 ## Pre-requisites
 
 1. [Python 3.7](https://www.python.org/downloads/release/python-370/) or higher `brew install python@3.7`
@@ -19,4 +25,4 @@
 
 ## Running a notebook
 `cd <root of cloned repo>`
-`jupyter-lab [search.ipynb|ranule_search.ipynb]`
+`jupyter-lab`
