@@ -1,0 +1,7 @@
+name: cmr-search-documentation
+dependencies:
+  - python
+  - pip
+  - pip:
+    - jq
+    - pillow
