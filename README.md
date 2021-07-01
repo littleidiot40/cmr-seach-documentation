@@ -18,10 +18,11 @@ The notebooks execute HTTPS requests and parse the results in either XML or JSON
    - [jq](https://pypi.org/project/jq/) `pip install jq` for json traversal
 
 ## Notebooks
-- Gettting started with search `search.ipynb`
-- Two-step searching `two_step_search.ipynb`
-- Searching for collections `collection_search.ipynb`
-- Searching for granules `granule_search.ipynb`
+For novice users, it is suggested you try these notebooks in the order below,
+1. Gettting started with search `search.ipynb`
+2. Two-step searching `two_step_search.ipynb`
+3. Searching for collections `collection_search.ipynb`
+4. Searching for granules `granule_search.ipynb`
 
 ## Running a notebook
 `cd <root of cloned repo>`
