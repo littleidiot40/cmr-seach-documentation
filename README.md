@@ -19,7 +19,7 @@ The notebooks execute HTTPS requests and parse the results in either XML or JSON
 
 ## Notebooks
 - Gettting started with search `search.ipynb`
-- Two-step searching
+- Two-step searching `two_step_search.ipynb`
 - Searching for collections
 - Searching for granules `granule_search.ipynb`
 
