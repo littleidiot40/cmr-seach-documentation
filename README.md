@@ -14,7 +14,7 @@
 ## Notebooks
 - Gettting started with search `search.ipynb`
 - Two-step searching
-- Searching for collections
+- Searching for collections `collection_search.ipynb`
 - Searching for granules `granule_search.ipynb`
 
 ## Running a notebook
